@@ -1,5 +1,7 @@
 ## Meow PHP libraries
 
+You can consider sthis as very light PHP framework.
+
 <!--
 
 **Here are some ideas to get you started:**
