@@ -1,8 +1,14 @@
-## Meow PHP libraries
+# MeowPHP 🐾
 
-__packagist namespace__: `meow/` & `meowphp/`
+__Packagist Namespace__: `meow/`, `meowphp/`
 
-🐱 Makes things that purr nicely with PHP
+**MeowPHP** is a minimalist PHP framework designed for building small-to-medium web applications with ease. Inspired by simplicity and modularity, it helps developers focus on what matters — writing clean, functional code without unnecessary fluff.
+
+- 🧩 Modular structure
+- 🚀 Lightweight and fast
+- 🐱 Developer-friendly syntax
+- 🛠️ Ideal for personal projects, tools, and APIs
+
 
 <!--
 
