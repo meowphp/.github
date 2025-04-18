@@ -1,4 +1,4 @@
-# MeowPHP 🐾
+# Meow 🐾
 
 __Packagist Namespace__: `meow/`, `meowphp/`
 
