@@ -1,6 +1,8 @@
 ## Meow PHP libraries
 
-You can consider sthis as very light PHP framework.
+__packagist namespace__: `meow/` & `meowphp/`
+
+🐱 Makes things that purr nicely with PHP
 
 <!--
 
